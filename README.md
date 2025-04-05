@@ -1,4 +1,4 @@
-![Screenshot (23)](https://github.com/user-attachments/assets/6b60577e-f8a8-4ff3-9024-d9dd233510b0)![Screenshot (23)](https://github.com/user-attachments/assets/a20a3e7a-b73e-47f4-97c5-d3691b235c54)🎓 AI-Powered Personalized Tutoring System 🚀
+🎓 AI-Powered Personalized Tutoring System 🚀
 Personalized Learning. Real-Time Progress. AI-Driven Success.
 
 🔍 Overview
@@ -84,11 +84,12 @@ Chatbot (Chintu - Google Gemini)
 8. Real-Time Chatbot Support (Chintu)
 
 📸 Sample Screenshots
-![Screenshot (23)](https://github.com/user-attachments/assets/90f13cb0-abbd-4286-aaca-4fda41fa85cc)
-![Screenshot (24)](https://github.com/user-attachments/assets/bbeaf896-b5bc-4063-9f19-589f55921960)
-![Screenshot (25)](https://github.com/user-attachments/assets/14195748-48a2-44c0-bf78-d0ba1650efa6)
-![Screenshot (26)](https://github.com/user-attachments/assets/ff36e98a-6dab-4c39-b7c9-abbec03f92a4)
-![Screenshot (22)](https://github.com/user-attachments/assets/5160bda8-3a09-47a2-9380-3aa29a43c498)
+(https://github.com/user-attachments/assets/a8a0b776-7f9c-43e2-be81-9c00f0de2612)
+(https://github.com/user-attachments/assets/90f13cb0-abbd-4286-aaca-4fda41fa85cc)
+(https://github.com/user-attachments/assets/bbeaf896-b5bc-4063-9f19-589f55921960)
+(https://github.com/user-attachments/assets/14195748-48a2-44c0-bf78-d0ba1650efa6)
+(https://github.com/user-attachments/assets/ff36e98a-6dab-4c39-b7c9-abbec03f92a4)
+(https://github.com/user-attachments/assets/5160bda8-3a09-47a2-9380-3aa29a43c498)
 
 
 
