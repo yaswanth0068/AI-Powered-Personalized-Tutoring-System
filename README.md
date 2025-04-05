@@ -84,12 +84,13 @@ Chatbot (Chintu - Google Gemini)
 8. Real-Time Chatbot Support (Chintu)
 
 📸 Sample Screenshots
-(https://github.com/user-attachments/assets/a8a0b776-7f9c-43e2-be81-9c00f0de2612)
-(https://github.com/user-attachments/assets/90f13cb0-abbd-4286-aaca-4fda41fa85cc)
-(https://github.com/user-attachments/assets/bbeaf896-b5bc-4063-9f19-589f55921960)
-(https://github.com/user-attachments/assets/14195748-48a2-44c0-bf78-d0ba1650efa6)
-(https://github.com/user-attachments/assets/ff36e98a-6dab-4c39-b7c9-abbec03f92a4)
-(https://github.com/user-attachments/assets/5160bda8-3a09-47a2-9380-3aa29a43c498)
+![Screenshot (23)](https://github.com/user-attachments/assets/5a3b103d-c258-4cea-a790-4aac7cdd201c)
+![Screenshot (24)](https://github.com/user-attachments/assets/2ace6ab0-f865-4d85-b39b-528e510a7f1b)
+![Screenshot (25)](https://github.com/user-attachments/assets/6993de7b-6ae5-4ea3-b3a9-72ec81b3ce61)
+![Screenshot (26)](https://github.com/user-attachments/assets/f3a5d033-9849-4604-94ec-e21f4b194c25)
+![Screenshot (27)](https://github.com/user-attachments/assets/ec6a1181-6b30-4c88-b4fb-cee80a5fa716)
+![Screenshot (22)](https://github.com/user-attachments/assets/9bbb7bfa-496d-490e-9611-bf78fa499052)
+
 
 
 
