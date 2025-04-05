@@ -112,7 +112,7 @@ Chatbot (Chintu - Google Gemini)
 
 bash
 Clone the repo
-git clone https://github.com/your-username/ai-tutoring-system.git
+git clone https://github.com/your-username/AI-Powered-Personalized-Tutoring-System.git
 
 Frontend
 cd client
